@@ -1,0 +1,204 @@
+/* SELECTOR */
+h4{
+    text-transform: uppercase;
+    font-family: lato;
+    font-style: italic;
+    font-size: 12pt;
+    color: #63769d;
+    position: relative;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+.jumbotron{
+ padding: 0;
+ margin-bottom: 0;   
+}
+.jumbotron-third{
+background-color: white;
+}
+.main-container{
+    background-image: url('../image/main-image.jpg');
+    
+    height: 820px;
+    text-align: center;
+    background-size: cover;
+ 
+ background-repeat: no-repeat;
+ background-position: center; 
+}
+.second-page{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.6)), url('../image/mountain1.jpg');
+    height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+/* .third-page{
+
+} */
+
+.nav-item{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    
+    
+}
+.navbar-third{
+    background-color: #414f6b;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.mountain{
+    
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px auto;
+    border: none;
+    background-color:#414f6b;
+    color: #b0b4be; 
+    font-size: 20pt;
+    font-family: Oswald;
+    font-style: bold;
+    margin:0;
+    text-align: center;
+}
+.mountain:hover{
+    
+    background-color: #b0b4be;
+    text-decoration: underline;
+    color: #414f6b;
+    text-align: center;
+    border: none;
+    
+}
+
+.link{
+    
+    padding: 15px;
+    font-size: 12;
+    font-family: lato;
+    font-style: black;
+    font-style: italic;
+    color: #f4f7fb; 
+    font-weight: bolder;
+
+}
+.link:hover{
+    color: #ff414d;
+}
+.link-second{
+    color: #414f6b;
+}
+
+.layer{
+padding: 15px;
+margin-top: 70px;
+}
+.heading{
+    position: absolute;
+
+    margin-bottom: 0px;
+    margin-top: -95px;
+    margin-left: 140px;
+    text-transform: uppercase;
+    color: #414f6b;
+    font-family: Oswald;
+    font-style: bold;
+    color: #414f6b;
+    font-size: 32pt;
+
+
+}
+.team{
+    margin-left: 154px;
+    margin-top: -135px;
+}
+.layer-team{
+    margin-top: 44px;
+    margin-bottom: 40px;
+}
+.para-text{
+    
+    font-size: 11pt;
+    font-family: lato;
+    font-style: light;
+    color: #000000;
+    line-height: normal;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 0;
+    margin-bottom: 27rem;
+    /* margin-right: 7rem; */
+    
+    }
+    .team-text{
+        position: absolute;
+        margin-left: 260px;
+    margin-top: -125px;
+    }
+.blog .carousel-indicators {
+	bottom: 0;
+	top: auto;
+    bottom: -40px;
+
+}
+
+/* The colour of the indicators */
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}
+
+.blog .carousel-indicators .active {
+background: #707070;
+}
+.third-page{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.6)), url('../image/mountain3.jpg');
+    height: 550px;
+    background-size: cover;
+    width: 100%;
+    background-size: cover;
+ 
+ background-repeat: no-repeat;
+ background-position: center; 
+}
+.rectangle{
+    width: 350px;
+    height: 230px;
+    background-color: #f0f2f5;
+    opacity: 0.5;
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 231px;
+    
+}
+.schedule{
+    font-family: Oswald;
+    font-style: bold;
+    color: #414f6b;
+    font-size: 32pt;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-top: 15px;
+    margin-left: 20px;
+
+    
+}
+.data{
+    padding-left:20px ;
+    padding-bottom:10px ;
+    font-size: 16pt;
+    font-family: lato;
+    font-style: light;
+    color: #000000;
+    line-height: normal;
+}
+#footer{
+    background-color:#414f6b; ;
+}
